@@ -1,1 +1,31 @@
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+}
+header { 
+  border-botton: solid 2px #15a5e3;
+  padding: 20px;
+  color: #8ACE00;
+}
+section {
+  brackground: #0628e9
+  padding-botton: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.texto { 
+margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+
 
